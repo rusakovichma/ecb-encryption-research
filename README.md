@@ -12,7 +12,7 @@ ECB mode can also make protocols without integrity protection even more suscepti
 
 Code example
 ===============
-Full example may be found here: https://github.com/rusakovichma/aes-cbc-security-research/blob/master/src/test/java/com/github/rusakovichma/security/aes/cbc/padding/oracle/PaddingOracleAttack.java
+Full example may be found here: https://github.com/rusakovichma/ecb-encryption-research/blob/master/src/test/java/com/github/rusakovichma/encryption/ecb/research/service/TripleDesEncryptionServiceTest.java
 
 ```JAVA
     @Test
