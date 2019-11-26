@@ -10,10 +10,10 @@ the overall image may still be discerned, as the pattern of identically colored 
 
 ECB mode can also make protocols without integrity protection even more susceptible to replay attacks, since each block gets decrypted in exactly the same way.
 
-Here's an image of an unencrypted secret:
+Here's an image of an unencrypted secret:\
 ![Unencrypted secret image](https://raw.githubusercontent.com/rusakovichma/ecb-encryption-research/master/src/test/resources/secret1.bmp)
 
-After ECB encryption:
+After ECB encryption:\
 ![ECB encryption secret image](https://raw.githubusercontent.com/rusakovichma/ecb-encryption-research/master/src/test/resources/secret1_encrypted.png)
 
 
